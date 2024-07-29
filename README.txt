@@ -18,10 +18,6 @@ The web application is a task management system designed to help users organize 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
-
-- Briefly list the key features of your application.
-
 ## Prerequisites
 
 - Node.js and npm installed.
@@ -53,10 +49,6 @@ The web application is a task management system designed to help users organize 
 - Database file: `database.db`.
 - The database structure is defined in `index.js`.
 
-## Styling
-
-- The styling is defined in the `styles/style.css` file.
-- EJS templates include styles using the link tag: `<link rel="stylesheet" href="/styles/style.css">`.
 
 ## Logout
 
